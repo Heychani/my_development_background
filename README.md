@@ -1,2 +1,7 @@
-# my_development_background
-A short explanation for recruiters and potential employers about why my public GitHub doesn’t reflect my latest work.
+# Chanique Steenkamp
+
+## You’re probably wondering why my portfolio link brought you here.
+
+I’ve been working in a professional development environment for over two years, and before that, I was a coding coach at CodeSpace Academy. In both roles, all work was done within private enterprise GitHub repositories, which means I’m unable to publicly showcase the projects that best represent my current skill set.
+
+However, I’d be more than happy to walk you through my most recent production work — from code to live deployment — in a guided demo call, upon request.
